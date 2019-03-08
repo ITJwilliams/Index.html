@@ -1,20 +1,31 @@
 <!DOCTYPE html>
+
 <html>
+
 <head>
+
 <title>My Student Website</title>
+
 </head>
+
 <body bgcolor="#00f399">
+
 <div align="center">
+
 <style>h1 { border-style: ridge;
+
   border-color: coral;
+
   border-width: 15px; }</style>
+
 <h1><font color="Blue"> Hello and Welcome to my profile</h1>
 
+<h2><font color="white">RMIT Student ID s3779511</h2>
 
-
-<h2><font color="white">RMIT Student ID s3779503</h2>
 <h2><font color="white">A little bit about me.</h2>
+
 <img src="C:\Users\jhrwi\Documents\GitHub\Student-profile-\harbor bridge.jpg" height="20%" width="20%" alt="" />
+
 
 <pre>
 	<font color="blue">My name is Jonathan and i'm currently 36 years old and live in Hobart Tasmania.
@@ -31,27 +42,18 @@ There are so many exciting possible careers in Information Technology from worki
 <img src="C:\Users\jhrwi\Documents\GitHub\Student-profile-\robotics.jpg" height="15%" width="15%" alt="" />
 
 
-
-<pre>This personality profile to is </pre>
-
-
 <a href="https://www.16personalities.com/profiles/f4580a6fe6507"</a>
 <h2><font color="white"> Personal Profile Test 1</h2>
- 
 
-<a href="http://www.humanmetrics.com/personality/intj-type?EI=-19&SN=-50&TF=1&JP=19"</a>
+ <a href="http://www.humanmetrics.com/personality/intj-type?EI=-19&SN=-50&TF=1&JP=19"</a>
 <h2><font color="white">Personal Profile Test 2</h2>
-
 
 <a href="https://my-personality-test.com/results/3960169155373302734/personality-type-indicator"</a>
 <h2><font color="white">Personal Profile Test 3</h2>
 
 <img src="C:\Users\jhrwi\Documents\GitHub\Student-profile-\mental-strength.jpg" height="8%" width="15%" alt="" />
 
-</p>
-
 <img src="C:\Users\jhrwi\Documents\GitHub\Student-profile-\robotics.jpg" height="15%" width="15%" alt="" />
-
 
 <h2><font color="white">My test's and what do they mean???</h2>
 
@@ -60,39 +62,34 @@ A natural ability to resist stress and see issue's as they arise and to also see
 In a team enviroment i can work as both a leader or team member with the ability spot possible oppurtunities and problems that others may not as well as overseeing the teams performance 
 while helping to keep harmony to the group.</pre>
 
-
 <a href="https://www.16personalities.com/profiles/f4580a6fe6507"</a>
 <h2><font color="white"> Personal Profile Test 1</h2>
- 
 
-<a href="http://www.humanmetrics.com/personality/intj-type?EI=-19&SN=-50&TF=1&JP=19"</a>
+ <a href="http://www.humanmetrics.com/personality/intj-type?EI=-19&SN=-50&TF=1&JP=19"</a>
 <h2><font color="white">Personal Profile Test 2</h2>
-
 
 <a href="https://www.123test.com/report/OROYDWJCRYBJB57TWE/"</a>
 <h2><font color="white">Personal Profile Test 3</h2>
 
 <img src="C:\Users\jhrwi\Documents\GitHub\Student-profile-\mental-strength.jpg" height="8%" width="15%" alt="" />
 
-<h2>My IT Project</h2>
-
 <pre>
-<h2><font color="white">My test's and what do they mean???</h2>
+<h2>My IT Project</h2>
+Overview
 
-<pre>Overview:100 words
-A simplified and less expensive home automation system that is capable of controling lights, heaters, tv, radios etc by touch, sounds or motion for people with disabilities.
-Today these things are availible but are very expensive and require specialists trades like electricians and builders to install. 
-Other devices like Google home or Amazon Alexa can be used but wont connect to or operate all devices settings correctly requiring multiple diffrent home automation systems.
-My project will be an elctronic device operated by a mobile app using motion, sound or touch to control which can operate all these devices and their functions.
+A simplified and less expensive home automation system that is capable of controling lights, heaters, tv, radios etc by touch, sounds or eye and body motion's for people with disabilities and anyboby who desires a simple solution.
+Today these things are availible but are very expensive and require specialists trades like electricians and builders to install or electronic whizzes to build. 
+Other devices like Google home or Amazon Alexa can be used but wont connect to or operate all devices and settings correctly requiring multiple diffrent home automation systems.
+My project will be an elctronic device operated by a native unit or mobile phone and computer application using eye and body motion, sound or touch to control which can operate all these devices and their functions
+and using the power of AI to improve the user experience.
 
-Motivation:100 words
+Motivation
+
 I've worked with people who have disabilities for over a decade now and i believe there is a long way to go in bringing home automatation to people with a disability in a inexpensive and easy to operate way.
 I have seen the diffuclties caused by this to people with disabilities and their families who cannot afford the expensive home systems or dont have the technical knowledge to operate and add devices and functions to current less espensive units.
-This would improve the quality of life and bring more indepenents to those with a disability and their families by creating a simplified way for people to operate their electronic devices. 
+This would improve the quality of life and bring more indepenence to those with a disability and their families by creating a simplified way for people to operate their own electronic devices. 
 
-
-
-Description:500 words
+Description
 
 
 
@@ -105,34 +102,51 @@ Description:500 words
 
 
 Tools and Technologies:100 Words
-This project would require a firm understanding of programming languages Python and Java for the creation of the application on mobile phones and websites and also Raspberry Pi module and Arduino to recieve and decode IR data.
 
+Hardware
+Raspberry Pi 3 Model B- Linux 
+ANAVI Infrared pHAT by Anavi Technology for IR remote control
+Pimoroni Speaker pHAT for Raspberry Pi Zero for audio such as device responses or alerts/alarms
+ReSpeaker 4-Mic Array for Raspberry Pi for voice control
+Raspberry Pi 7" LCD touch screen or bigger for touch control and user experience
+1080p HD Camera Module Board 5mp Fish Eye IR Night Vision for Raspberry Pi or more powerful webcam if needed for motion and eye tracking
 
+Software
+http://www.pygaze.org/ - eye tracking
+http://jasperproject.github.io/documentation/installation/ - voice control
+------------------------------------------------------------Motion control
+Understanding of Python, Java and C languages for the programmes and the user UX and UI
 
+Skills Required
 
+This project would require mix of building with a Raspberry Pi unit and sensors and possibly abit more of an advanced knowleged of 
+programming in languages such as Python, Java or C language to programme each of units and to make sure they a function correctly.
+Also experience with building Raspberry Pi would be essential as this is what the unit is mostly comprised of.
+As well as having its own native unit unit this system could run on Android and IOS devices so understanding of application making for these device's
+The ability to use Raspbian operating system on the Pi to run the desired programmes
+A basic understanding of how electronics work would also be desired to prevent any possible injury.
 
+Outcome
 
-Skills Required:100 words
-
-
-
-
-Outcome: 100 words
-
-
-
-
-
-
+The desired outcome for this device is to have the ability to simply control all units that can by controlled by Wifi or Infrared 
+by a Rasperry Pi module that can be operated through motion tracking, touchsrcreen, sound or eye tracking.
+This device would could be used by anybody and would be especially useful to those with degenerative disabiliies.
+Without the need for any complex programming or wiring issues and with a simple user friendly interface that has the ability 
+to learn routine's and automatically add new devices and their functionalitiy by AI.
 </pre>
 
+
 </div>
-<footer><h1>Thankyou for visiting my profile</h1></footer>
+
+<footer <div align="center"><h1>Thankyou for visiting my profile</h1></footer>
+
 </body>
+
 </html>
 
 
 
-</div>
-</body>
-</html>
+
+
+
+
